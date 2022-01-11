@@ -90,8 +90,8 @@
 		F1C08430277D9C9A00EF2BA0 /* BarcodeScanner */ = {
 			isa = PBXGroup;
 			children = (
-				F1C0841A277D796B00EF2BA0 /* BarcodeScannerView.swift */,
 				F1C0842D277D971400EF2BA0 /* BarcodeScannerViewModel.swift */,
+				F1C0841A277D796B00EF2BA0 /* BarcodeScannerView.swift */,
 			);
 			path = BarcodeScanner;
 			sourceTree = "<group>";
